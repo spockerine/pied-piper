@@ -1,0 +1,71 @@
+    body{
+        margin:0px;
+    }
+
+    .top-bar{
+        margin-top:0px;    
+        /*padding: 0.1em;*/
+        color : #ff6600;
+        /*I hate this color*/
+        background-color: #26C6DA;
+    
+    }
+
+    .brand-name{
+        font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+        font-size: 2em;
+        font-variant: small-caps;
+        float:left;
+        margin-left: 0.5em;
+        
+    }
+    .description{
+        font-family: "Palatino Linotype","Book Antiqua", Palatino, serif;
+        color: #ff6600;
+        font-size: 1em;
+        float:right;
+        margin-top:1em;
+        margin-right:0.5em;
+    }
+    #webinfo1{
+        font-family: monospace;
+        font-size: 5em;
+        font-variant: small-caps;
+        margin-top:10%;
+        text-align: center;
+    }
+    #webinfo2{
+        font-family: monospace;
+        font-size: 2em;
+        font-variant: small-caps;
+        margin-top:1%;
+        text-align: center;
+    }
+    .enter{
+        font-family: monospace;
+        font-size: 3em;
+        font-variant: small-caps;
+        margin-top:1%;
+        text-align: center;
+        
+        
+    
+    }
+    .enter a{
+        text-decoration: none;
+         
+    }
+
+    .links{
+        font-family: monospace;
+        font-size: 2em;
+        font-variant: small-caps;
+        margin-top:1%;
+        text-align: center;
+
+    }
+
+.links a{
+    margin-bottom: 1em;
+    
+}
